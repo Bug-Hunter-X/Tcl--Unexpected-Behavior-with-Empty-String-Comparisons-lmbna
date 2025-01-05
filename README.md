@@ -1,0 +1,1 @@
+This repository demonstrates a subtle bug in a Tcl procedure that arises when comparing strings, particularly when dealing with empty strings. The `badproc` procedure incorrectly handles empty string inputs, leading to potentially unexpected results or errors.  The solution showcases how to correctly handle such scenarios to prevent unexpected behavior.
